@@ -9,6 +9,8 @@ A [Pelican](http://blog.getpelican.com/) theme.
 
 Clone this repository in your pelican site's `themes` directory.
 
+    git submodule add https://github.com/chuckbutler/pelican-masonary-redux.git masonary-redux
+
 Assign your site template to masonary-redux in pelicanconf.py
 
 make html - and you should be good to go.
