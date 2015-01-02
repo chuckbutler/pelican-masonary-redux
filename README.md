@@ -2,7 +2,7 @@
 
 A [Pelican](http://blog.getpelican.com/) theme.
 
->  This theme uses a template 404 page purchased from themeforest. Please support the author and purchase this template if you plan on using this theme. **SUPPORT GREAT WORK**
+>  This theme uses a template [404 page](http://themeforest.net/item/cthulhu-ominous-404-page-template/1981808) purchased from themeforest. Please support the author and purchase this template if you plan on using this theme. **SUPPORT GREAT WORK**
 
 
 ## How to Use
